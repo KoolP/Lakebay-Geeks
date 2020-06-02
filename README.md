@@ -1,5 +1,5 @@
 # Lakebay-Geeks
-The Lakebay Geeks football tactics. A football team in the lowest division in Sweden, Gothenburg. Pull requests for new game tactics welcome.
+The Lakebay Geeks football tactics. A football team in the lowest division in Sweden, Gothenburg. Issues and Pull Requests for new game tactics welcome.
 
 # Team culture:
 A culture is the expression of a team’s values, attitudes, and goals about sports, competition, and relationships. It determines whether, for example, the team’s focus is on fun, improvement, or winning or whether it promotes individual accomplishment, simply exercise or team success.
@@ -8,7 +8,7 @@ A culture is the expression of a team’s values, attitudes, and goals about spo
 
 
 # Gamplay tactics:
-Football is a simple game the goal is to score more goals than the opponent. This said it still is a bit tricky to get players syncronized. If you have played/watched football or chess, you would know
+Football is a simple game the goal is to score more goals than the opponent. This said it still is a bit tricky to get players syncronized. If you have played/watched football you know it is a bit like chess.
 
 2.1 Occupying the centre is given very high importance. To evaluate further on this it is usually within the penalty areas where the games are solved. Winning goals or winning saves and defensive acts are made within the penalty area (area near and around the goal). We want to push the offense to the sides and corners.
 

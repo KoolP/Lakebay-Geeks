@@ -36,10 +36,10 @@ Substitution Strategy
 ---------------------
 As a member of the team everyone should be aware of the importance of circulation of players and substitution. This is important not only for sharing the stamina burden, but also giving fair opportunity to all players to take enough playing time. To be able to grant this i believe that makes sense to bring some rules about substitution.
 
-* No need to mention maybe, it is de-facto when it comes to substitution : if you are tired, change immediately
-* There should be a structural strategy to changing orders depending on the bench as well of course
-	** There could be a strategy to make positional groups and player change inside the positional group
-	** There could be pairs if there are enought players on the bench (it means 6 player on the bench)
-	** There could be a one huge queue (not stack) that could be tracked.
-* The should not be more than 5 minutes in the pitch without any substitution
-* More rules to follow...
+- No need to mention maybe, it is de-facto when it comes to substitution : if you are tired, change immediately
+- There should be a structural strategy to changing orders depending on the bench as well of course
+    - There could be a strategy to make positional groups and player change inside the positional group
+    - There could be pairs if there are enought players on the bench (it means 6 player on the bench)
+    - There could be a one huge queue (not stack) that could be tracked.
+- There should not be more than 5 minutes in the pitch without any substitution
+    - A decision might be necessary about who will follow this. (Captain, bench, audience, etc.)

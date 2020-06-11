@@ -6,7 +6,7 @@ Team culture
 ============
 A culture is the expression of a team’s values, attitudes, and goals about sports, competition, and relationships. It determines whether, for example, the team’s focus is on fun, improvement, or winning or whether it promotes individual accomplishment, simply exercise or team success.
 
-1.1 Each team member needs to think about what the values for playing in Lakebay Geeks are and see the broad picture of this hobby. Yes winning is more fun but it is not the only reson we are here for.
+- 1.1 Each team member needs to think about what the values for playing in Lakebay Geeks are and see the broad picture of this hobby. Yes winning is more fun but it is not the only reson we are here for.
 
 
 Gameplay tactics
